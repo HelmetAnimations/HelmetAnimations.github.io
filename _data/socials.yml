@@ -4,7 +4,7 @@
 
 - title: Discord
   url: https://discordapp.com/users/545684381864558612/
-  image: /assets/images/social/SLDiscord.png
+  image: /assets/images/social/SLDiscord.gif
 
 - title: Twitter
   url: https://twitter.com/HelmetAnimation
@@ -15,6 +15,9 @@
   image: /assets/images/social/SLTwitch.png
 
 -
+- title: Reddit
+  url: https://www.reddit.com/user/HelmetAnimations
+  image: /assets/images/social/SLTwitch.png
 
 
 

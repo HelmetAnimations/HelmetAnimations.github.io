@@ -1,5 +1,5 @@
 # Site settings
-title: HelmetAnimations
+title: Helmet Animations
 tagline: Traditional Animator, Digital Artist, Graphic Design Student
 description: Portfolio
 image: /assets/images/image.png
@@ -7,12 +7,12 @@ url: https://helmetanimations.github.io
 sidebar_main_text: 
 home_url: /portfolio/
 cover_text: Check my Website!
-author: HelmetAnimations
+author: Helmet Animations
 lang: en-US
 google_analytics: G-0R3J0WP4Y3
 logo: /favicon.ico
 twitter:
-  username: HelmetAnimations
+  username: Helmet Animations
   card: summary
 
 defaults:

@@ -6,7 +6,7 @@
   submenu:
     - title: Everything
       url: /portfolio/
-    - title: Animations
+    - title: Animation
       url: /portfolio/animations
       - title: Backgrounds
       url: /portfolio/backgrounds

@@ -6,10 +6,13 @@
   submenu:
     - title: Everything
       url: /portfolio/
-    - title: Pixel Art
-      url: /portfolio/pixelart
+    - title: Animations
+      url: /portfolio/animations
+      - title: Backgrounds
+      url: /portfolio/backgrounds
     - title: Commissions
       url: /portfolio/commissions
+      
 
 -
 - title: About

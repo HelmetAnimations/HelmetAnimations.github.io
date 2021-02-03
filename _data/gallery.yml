@@ -1,4 +1,4 @@
-- image: https://imgur.com/YVtXMTH
+- image: [img]https://i.imgur.com/YVtXMTH.gif[/img]
   date: 2019-13-23
   title: CT_Loki_CT-9355
   description: 
@@ -6,10 +6,4 @@
   linktext: 
   category: [ all, animations, comissions ]
 
-- image: https://imgur.com/YVtXMTH
-  date: 2019-13-23
-  title: CT_Loki_CT-9355
-  description: 
-  linkurl: 
-  linktext: 
-  category: [ all, animations, comissions ]
+-

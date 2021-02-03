@@ -6,9 +6,9 @@
   submenu:
     - title: Everything
       url: /portfolio/
-    - title: Animation
+    - title: AnimationS
       url: /portfolio/animations
-      - title: Backgrounds
+    - title: Backgrounds
       url: /portfolio/backgrounds
     - title: Commissions
       url: /portfolio/commissions

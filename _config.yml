@@ -2,7 +2,7 @@
 title: Helmet Animations
 tagline: Traditional Animator, Digital Artist, Graphic Design Student
 description: Portfolio
-image: /assets/images/image.png
+image: /assets/images/image.gif
 url: https://helmetanimations.github.io
 sidebar_main_text: 
 home_url: /portfolio/
@@ -19,7 +19,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/imageLogo.png
+      image: /assets/images/imageLogo.gif
 
 # Build settings
 remote_theme: wildleoknight/stardust 
